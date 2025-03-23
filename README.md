@@ -37,7 +37,7 @@
 To set up the project environment, first clone the repository, then navigate to the project directory and run the following commands:
 
 ```bash
-git clone https://github.com/MGJillaniMughal/Student-Performance-Predictor-Application-Using-AI-ML.git
+git clone https://github.com/starme208/Student-Performance-Predictor-Application-Using-AI-ML.git
 cd Student-Performance-Predictor-Application-Using-AI-ML
 pip install -r requirements.txt
 ```
@@ -60,5 +60,3 @@ python app.py
 
 This will start a local server, and you can view the application in your web browser.
 
-## Credits :memo:
-This project is maintained by [Muhammad Ghous Jillani Mughal](https://github.com/MGJillaniMughal).
